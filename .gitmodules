@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/DimitrisTheo/MERN-Articles-Categories-Frontend.git
